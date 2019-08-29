@@ -7,4 +7,4 @@ pip install opencv-python
 Run in terminal:-
 python3 face_recognition.py
 
-Press q to quit
+Press "Q" to quit
